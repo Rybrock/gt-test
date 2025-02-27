@@ -47,7 +47,7 @@ const uniqueComputers = computed(() => {
 <template>
   <div class="min-h-screen bg-gray-900 text-white w-full">
     <header class="text-center py-6 p-4 bg-dark text-accent flex flex-col justify-center items-center gap-2">
-      <h1 class="text-lg font-bold">MGMaritime Vessel Status</h1>
+      <h1 class="text-lg font-bold">GT Maritime Vessel Status</h1>
       <img src="./assets/logo.png" width="60" height="50" alt="MGMaritime Logo" />
     </header>
 
